@@ -1,0 +1,107 @@
+{
+  "Category": [
+    {
+      "Id": 0,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/cat1.png?alt=media&token=083113c5-726a-4ad0-b057-de8d9cc0572f",
+      "Name": "Vegetable"
+    },
+    {
+      "Id": 1,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/cat2.png?alt=media&token=bf5e356c-ab42-4f59-a7ee-2ebffc91727a",
+      "Name": "Fruits"
+    },
+    {
+      "Id": 2,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/cat3.png?alt=media&token=49ec1870-9bfc-4ade-833a-ffbf8887dfb2",
+      "Name": "Dairy"
+    },
+    {
+      "Id": 3,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/cat4.png?alt=media&token=abd21efa-ed32-40ca-a27e-e14826d60b41",
+      "Name": "Drinks"
+    },
+    {
+      "Id": 4,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/cat5.png?alt=media&token=0d397d7c-c424-406a-b4e8-7033c4fa29b3",
+      "Name": "Grain"
+    }
+  ],
+  "Items": [
+ {
+     
+      "CategoryId": 0,
+      "Description": "With its vibrant orange hue and a burst of refreshing citrus flavor, the juicy orange is a natural source of vitamin C, invigorating your senses and  supporting your immune system. A delightful snack that combines health and taste.",
+      "Id": 0,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/orange.png?alt=media&token=5be519b6-857c-45af-862e-2b17fb0ab6b7",
+      "LocationId": 1,
+      "Price": 5.5,
+      "Star": 4.3,
+      "Title": "Fresh orange"
+    },
+    {
+     
+      "CategoryId": 0,
+      "Description": "Crisp and succulent, apples are nature's candy. Each bite offers a symphony of sweetness and a satisfying crunch. Packed with fiber and antioxidants, apples make for a wholesome snack, keeping you energized throughout the day.",
+      "Id": 1,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/apple.png?alt=media&token=a9bcdcf5-372d-4df2-8357-8d5ac2722f49",
+      "LocationId": 1,
+      "Price": 6.5,
+      "Star": 4.5,
+      "Title": "Fresh apple"
+    },
+    {
+     
+      "CategoryId": 0,
+      "Description": "Quench your thirst and satisfy your sweet tooth with the hydrating goodness of watermelon. Bursting with juiciness and vibrant color, this summer favorite is a natural way to stay cool and refreshed. Enjoy the taste of summer with every juicy bite.",
+      "Id": 2,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/watermelon.png?alt=media&token=fa67f517-880d-4a7d-9892-ac2a5ca644b7",
+      "LocationId": 1,
+      "Price": 5.1,
+      "Star": 4.2,
+      "Title": "Fresh Watermelon"
+    },
+    {
+     
+      "CategoryId": 0,
+      "Description": "Nature's little jewels, cherries are a burst of sweet indulgence. Packed with antioxidants, these tiny treats not only satisfy your sweet cravings but also contribute to overall well-being. Pop a handful for a guilt-free snack that delights your taste buds.",
+      "Id": 3,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/berry.png?alt=media&token=c1788675-a416-4f69-86ae-0b5bb4532c9b",
+      "LocationId": 1,
+      "Price": 6.0,
+      "Star": 4.8,
+      "Title": "Fresh Berry"
+    },
+    {
+     
+      "CategoryId": 0,
+      "Description": "Transport yourself to the tropics with the exotic taste of pineapple. Juicy and tantalizingly sweet, this golden fruit is not only a treat for your taste buds but also a rich source of vitamins and enzymes, promoting digestive health and adding a splash of sunshine to your day.",
+      "Id": 4,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/pineaplle.png?alt=media&token=94713085-6295-4153-9e53-6b5a5fa78e2d",
+      "LocationId": 1,
+      "Price": 10,
+      "Star": 4.4,
+      "Title": "Fresh Pineapple"
+    },
+    {
+     
+      "CategoryId": 0,
+      "Description": "Delight in the sweetness of strawberries, each berry a burst of flavor and nutrition. Whether enjoyed on their own or added to your favorite dishes, these red gems are a guilt-free pleasure, offering a dose of vitamin C, antioxidants, and a touch of natural sweetness.",
+      "Id": 5,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project193-233c0.appspot.com/o/Strawberry.png?alt=media&token=21f23c4f-e772-4f47-8fa0-9270bd68fb89",
+      "LocationId": 1,
+      "Price": 12,
+      "Star": 4.8,
+      "Title": "Fresh Strawberry"
+    }
+  ],
+  "Location": [
+    {
+      "Id": 0,
+      "loc": "LA california"
+    },
+    {
+      "Id": 1,
+      "loc": "NY manhattan"
+    }
+  ]
+}
